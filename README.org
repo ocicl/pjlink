@@ -1,0 +1,10 @@
+* pjlink
+
+A Common Lisp library for interfacing with PJLink enabled devices
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Zulu-Inuoe/pjlink.git   |
+| commit  | db59e03  |
+| systems | pjlink |
+|---------+-------------------------------------------|
+
